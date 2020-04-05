@@ -97,7 +97,7 @@ namespace Perceptron
                                 weightedSum += weights[j];
                         }
 
-                        /*evaluate the vValue*/
+                        /*evaluate the weighted sum using the threshold function*/
                         yValue = (weightedSum <= 0) ? 0 : 1;
 
                         /*Calculate the delta value*/

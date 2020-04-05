@@ -1,0 +1,9 @@
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\bin\Debug\netstandard2.0\Perceptron.deps.json
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\bin\Debug\netstandard2.0\Perceptron.dll
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\bin\Debug\netstandard2.0\Perceptron.pdb
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.csprojAssemblyReference.cache
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.csproj.CoreCompileInputs.cache
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.AssemblyInfoInputs.cache
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.AssemblyInfo.cs
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.dll
+D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.pdb

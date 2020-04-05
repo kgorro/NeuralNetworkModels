@@ -593,6 +593,19 @@ namespace VowelConsonantRecognition
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {            
+            neural = new PerceptronNeuralNetwork();        
+            neural.setTrainingLayerPatter(getPreData());
+            neural.initializeOutputLayer();
+            neural.initializeWeights();
+
+            if(neural.trainPerceptron() == true)
+            {
+                MessageBox.Show("Training Successful");
+            }
+        }
+
+        private List<int[]> getPreData()
         {
             List<int[]> alphabetPattern = new List<int[]>{
                 new int[] {0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1},
@@ -623,17 +636,8 @@ namespace VowelConsonantRecognition
                 new int[] {1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1}
             };
 
-            neural = new PerceptronNeuralNetwork();        
-            neural.setTrainingLayerPatter(alphabetPattern);
-            neural.initializeOutputLayer();
-            neural.initializeWeights();
-
-            if(neural.trainPerceptron() == true)
-            {
-                MessageBox.Show("Training Successful");
-            }
+            return alphabetPattern;
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
             int[] input = new int[35];
