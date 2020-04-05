@@ -9,10 +9,10 @@ refers to the system of interconnected neurons that mimics the human brain.
 
 Figure 1 consist the following parts:
 
-1.) Input layer
-2.) Weights
-3.) Weighted Sum
-4.) Activation function
+1.) Input layer \
+2.) Weights \
+3.) Weighted Sum \
+4.) Activation function \
 5.) Output value ( y)
 
 Figure 1 neural network model is commonly called Perceptron. In this tutorial we are going to focus with the Perceptron model to understand the basics of neural networks. To best understand the Perceptron model we will create a classifier if the given alphabet is consonant or a vowel.
