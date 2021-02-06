@@ -7,3 +7,12 @@ D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Pe
 D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.AssemblyInfo.cs
 D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.dll
 D:\neuralNetworkNotes\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.pdb
+D:\DIT\NeuralNetworkModels\Perceptron\bin\Debug\netstandard2.0\Perceptron.deps.json
+D:\DIT\NeuralNetworkModels\Perceptron\bin\Debug\netstandard2.0\Perceptron.dll
+D:\DIT\NeuralNetworkModels\Perceptron\bin\Debug\netstandard2.0\Perceptron.pdb
+D:\DIT\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.csprojAssemblyReference.cache
+D:\DIT\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.csproj.CoreCompileInputs.cache
+D:\DIT\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.AssemblyInfoInputs.cache
+D:\DIT\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.AssemblyInfo.cs
+D:\DIT\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.dll
+D:\DIT\NeuralNetworkModels\Perceptron\obj\Debug\netstandard2.0\Perceptron.pdb
